@@ -1,6 +1,6 @@
 # ITWebsite
 <head>
-  <title> My Website Home Page</<title> 
+  <title> My Website Home Page</title> 
 </head>
   <body>
 	  <h1>Welcome to my website</h1>
